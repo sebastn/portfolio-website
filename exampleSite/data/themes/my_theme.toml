@@ -1,0 +1,30 @@
+# Custom Theme
+name = "my_theme"
+
+# Is theme light or dark?
+light = true
+
+# Primary
+# primary = "#1565c0"
+primary = "#30FC38"
+
+# Menu
+#menu_primary = "#fff"
+#menu_text = "#34495e"
+#menu_text_active = "#30FC38"
+#menu_title = "#2b2b2b"
+
+menu_primary = "#fff"
+menu_text = "#fff"
+menu_text_active = "#2962ff"
+menu_title = "#fff"
+
+# Home sections
+#home_section_odd = "rgb(255, 255, 255)"
+#home_section_even = "rgb(247, 247, 247)"
+home_section_odd = "#232a2e"
+home_section_even = "#0d1b28"
+
+[dark]
+  link = "#bbdefb"
+  link_hover = "#bbdefb"

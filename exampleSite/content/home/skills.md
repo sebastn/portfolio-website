@@ -16,19 +16,30 @@ subtitle:
 # - Add/remove as many `feature` blocks below as you like.
 # - For available icons, see: https://wowchemy.com/docs/page-builder/#icons
 feature:
-- description: 90%
-  icon: r-project
+- description: 75%
+  icon: microchip
+  icon_pack: fas
+  name: H/W Development
+- description: 80%
+  icon: linux
   icon_pack: fab
-  name: R
-- description: 100%
-  icon: chart-line
+  name: Linux
+- description: 85%
+  icon: raspberry-pi
+  icon_pack: fab
+  name: Raspberry Pi
+- description: 70%
+  icon: tools
   icon_pack: fas
-  name: Statistics
-- description: 10%
-  icon: camera-retro
+  name: Prototyping
+- description: 75%
+  icon: wifi
   icon_pack: fas
-  name: Photography
-
+  name: IoT
+- description: 80%
+  icon: screwdriver
+  icon_pack: fas
+  name: PCB Assembling
 # Uncomment to use emoji icons.
 #- icon: ':smile:'
 #  icon_pack: emoji
