@@ -23,30 +23,56 @@ date_format: Jan 2006
 #   Leave other parameters empty if not required.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 item:
-- certificate_url: https://www.coursera.org
+- certificate_url: https://www.coursera.org/account/accomplishments/certificate/7RD6EFRAXK8W?utm_medium=certificate&utm_source=link&utm_campaign=copybutton_certificate
   date_end: ""
-  date_start: "2021-01-25"
+  date_start: "2019-12-01"
   description: ""
   organization: Coursera
   organization_url: https://www.coursera.org
-  title: Neural Networks and Deep Learning
+  title: The Raspberry Pi Platform & Python Programming for the Raspberry Pi
   url: ""
-- certificate_url: https://www.edx.org
+- certificate_url: 
   date_end: ""
   date_start: "2021-01-01"
-  description: Formulated informed blockchain models, hypotheses, and use cases.
-  organization: edX
-  organization_url: https://www.edx.org
-  title: Blockchain Fundamentals
-  url: https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals
-- certificate_url: https://www.datacamp.com
-  date_end: "2020-12-21"
-  date_start: "2020-07-01"
-  description: ""
-  organization: DataCamp
-  organization_url: https://www.datacamp.com
-  title: 'Object-Oriented Programming in R'
-  url: ""
+  organization: LinkedIn
+  organization_url: https://www.linkedin.com/learning
+  title: Learning PCB Design with EAGLE
+  url: http://www.linkedin.com/learning/learning-pcb-design-with-eagle
+- certificate_url: 
+  date_end: ""
+  date_start: "2021-01-01"
+  organization: LinkedIn
+  organization_url: https://www.linkedin.com/learning
+  title: Learning Linux Command Line
+  url: https://www.linkedin.com/learning/learning-linux-command-line-2018
+- certificate_url: 
+  date_end: ""
+  date_start: "2021-01-01"
+  organization: LinkedIn
+  organization_url: https://www.linkedin.com/learning
+  title: Multitasking at the Command Line
+  url: https://www.linkedin.com/learning/linux-multitasking-at-the-command-line
+- certificate_url: 
+  date_end: ""
+  date_start: "2021-01-01"
+  organization: LinkedIn
+  organization_url: https://www.linkedin.com/learning
+  title: Learning Bash Scripting (2013)
+  url: https://www.linkedin.com/learning/learning-bash-scripting-2013
+- certificate_url: 
+  date_end: ""
+  date_start: "2021-01-01"
+  organization: LinkedIn
+  organization_url: https://www.linkedin.com/learning
+  title: Learning Ansible
+  url: https://www.linkedin.com/learning/learning-ansible-2020
+- certificate_url: 
+  date_end: ""
+  date_start: "2021-01-01"
+  organization: LinkedIn
+  organization_url: https://www.linkedin.com/learning
+  title: Introduction to Web APIs
+  url: https://www.linkedin.com/learning/introduction-to-web-apis
 
 design:
   columns: '2' 
