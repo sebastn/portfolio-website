@@ -31,48 +31,55 @@ item:
   organization_url: https://www.coursera.org
   title: The Raspberry Pi Platform & Python Programming for the Raspberry Pi
   url: ""
-- certificate_url: 
+- certificate_url: https://drive.google.com/file/d/1CJE7jJ8Vw1Uyp8_Tfet6tnepJrx90CBW/view?usp=sharing
   date_end: ""
   date_start: "2021-01-01"
   organization: LinkedIn
   organization_url: https://www.linkedin.com/learning
   title: Learning PCB Design with EAGLE
   url: http://www.linkedin.com/learning/learning-pcb-design-with-eagle
-- certificate_url: 
+- certificate_url: https://drive.google.com/file/d/1CiuNC3h07Z5HBuyE9fDBAVkvkUnrlmPl/view?usp=sharing
   date_end: ""
   date_start: "2021-01-01"
   organization: LinkedIn
   organization_url: https://www.linkedin.com/learning
   title: Learning Linux Command Line
   url: https://www.linkedin.com/learning/learning-linux-command-line-2018
-- certificate_url: 
+- certificate_url: https://drive.google.com/file/d/1yYeVg-3pA3KA5GAUYuCjXUqPzLrW8aCI/view?usp=sharing
   date_end: ""
   date_start: "2021-01-01"
   organization: LinkedIn
   organization_url: https://www.linkedin.com/learning
   title: Multitasking at the Command Line
   url: https://www.linkedin.com/learning/linux-multitasking-at-the-command-line
-- certificate_url: 
+- certificate_url: https://drive.google.com/file/d/10qnqD5LaUatlxGrjDncNE_cSAEv6I7Fy/view?usp=sharing
   date_end: ""
   date_start: "2021-01-01"
   organization: LinkedIn
   organization_url: https://www.linkedin.com/learning
   title: Learning Bash Scripting (2013)
   url: https://www.linkedin.com/learning/learning-bash-scripting-2013
-- certificate_url: 
+- certificate_url: https://drive.google.com/file/d/1N0nWehELor3CxJItrhL0VDCOnMdNyOnY/view?usp=sharing
   date_end: ""
   date_start: "2021-01-01"
   organization: LinkedIn
   organization_url: https://www.linkedin.com/learning
   title: Learning Ansible
   url: https://www.linkedin.com/learning/learning-ansible-2020
-- certificate_url: 
+- certificate_url: https://drive.google.com/file/d/1cOG1WA_pNQAYbynoaX7kc_B-7ApjPr-O/view?usp=sharing
   date_end: ""
   date_start: "2021-01-01"
   organization: LinkedIn
   organization_url: https://www.linkedin.com/learning
   title: Introduction to Web APIs
   url: https://www.linkedin.com/learning/introduction-to-web-apis
+- certificate_url: https://drive.google.com/file/d/1oQKysxCSWFLNIGGT_Zs-W8WwyZeyneuK/view?usp=sharing
+  date_end: ""
+  date_start: "2021-01-01"
+  organization: LinkedIn
+  organization_url: https://www.linkedin.com/learning
+  title: Learning Github Actions
+  url: https://www.linkedin.com/learning/learning-github-actions-2/automating-with-github-actions-2
 
 design:
   columns: '2' 

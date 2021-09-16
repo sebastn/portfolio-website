@@ -5,8 +5,8 @@
 
 # Appearance
 
-theme: Minimal
-day_night: true
+theme: my_theme
+day_night: false
 font: ''
 font_size: L
 
@@ -56,7 +56,7 @@ main_menu:
   show_logo: false
   show_language: false
   show_day_night: true
-  show_search: true
+  show_search: false
   highlight_active_link: true
 
 # Localization
@@ -140,7 +140,7 @@ map:
   api_key: ''
   zoom: 15
 marketing:
-  google_analytics: '286348337'
+  google_analytics: 'UA-207785665-1'
   google_tag_manager: ''
   google_site_verification: ''
   baidu_site_verification: ''
