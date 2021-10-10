@@ -70,4 +70,4 @@ highlight_name: true
 
 Sebastian Thomas Thekkekara is a recent graduate in Master of Science in Power Engineering from Technical University of Munich with a strong background in Electrical Engineering specializing in Embedded Electronics. Excellent team player and a skillful leader with excellent communication and presentation skills gained through numerous hackathons and projects. Maker, Hacker and a humble nerd. Linux enthusiast and loves doing Linux ricing and automation!
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
+{{< icon name="download" pack="fas" >}} Please download my {{< staticref "uploads/resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
