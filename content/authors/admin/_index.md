@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Not Sebastian Thomas Thekkekara 
+title: Sebastian Thomas Thekkekara 
 
 # Is this the primary user of the site?
 superuser: true
